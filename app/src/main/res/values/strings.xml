@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">WeatherAppKotlin</string>
+    <string name="location_text">Location</string>
+    <string name="updete_text">Updated_at</string>
+    <string name="sky_text">Clear sky</string>
+    <string name="degree_text">24°C</string>
+    <string name="min_text">Min temp</string>
+    <string name="max_text">Max Temp</string>
+</resources>
